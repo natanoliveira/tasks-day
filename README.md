@@ -17,7 +17,7 @@
 <img width="50%" src="https://raw.githubusercontent.com/natanoliveira/tasks-day/main/task-select.png"/>
 </a>
 
-3. Selecionar Tarefa
+3. Remover Tarefa
 <a href="https://raw.githubusercontent.com/natanoliveira/tasks-day/main/task-remove.png" target="_blank">
 <img width="50%" src="https://raw.githubusercontent.com/natanoliveira/tasks-day/main/task-remove.png"/>
 </a>
